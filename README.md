@@ -1,6 +1,7 @@
 <p align="center">
   <a href="https://github.com/BrewenC?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=BrewenC&show_icons=true&theme=tokyonight"/></a>
   <a href="#"><img src="https://streak-stats.demolab.com/?user=BrewenC&theme=dark"/></a>
+  <a href="#"><img src="https://api.githubtrends.io/user/svg/BrewenC/langs?time_range=one_year&include_private=True&compact=False&theme=dark"/></a>
 </p>
 <h2>Languages</h2>
 <p align="center">
