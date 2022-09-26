@@ -8,7 +8,7 @@
     <img src="https://skillicons.dev/icons?i=js,ts,java,c,cpp,dart&theme=dark" />
   </a>
 </p>
-<h2>Frameworks</h2>
+<h2>Frameworks & Platforms</h2>
 <p align="center">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=nodejs,nestjs,flutter,docker,gradle,maven,mysql,mongodb&theme=dark" />
