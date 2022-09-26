@@ -1,25 +1,23 @@
 <p align="center">
   <a href="https://github.com/BrewenC?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=BrewenC&show_icons=true&theme=tokyonight" alt="Stats"/></a>
-  <a href="#"><img src="https://streak-stats.demolab.com/?user=BrewenC&theme=dark" alt="Code Streak"/></a>
+  <a href="https://github.com/BrewenC?tab=overview"><img src="https://streak-stats.demolab.com/?user=BrewenC&theme=dark" alt="Code Streak"/></a>
+  <a href="https://github.com/BrewenC?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrewenC&layout=compact&theme=dark" alt="Languages Stats"/></a>
 </p>
-<h2>Languages</h2>
+
 <p align="center">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=js,ts,java,c,cpp,dart&theme=dark" alt="Languages"/>
   </a>
-</p>
-<h2>Frameworks & Platforms</h2>
-<p align="center">
+  <br/>
   <a href="#">
     <img src="https://skillicons.dev/icons?i=nodejs,nestjs,flutter,docker,gradle,maven,mysql,mongodb&theme=dark" alt="Frameworks & Platforms"/>
   </a>
-</p>
-<h2>IDEs & Text Editors</h2>
-<p align="center">
+  <br/>
   <a href="#">
     <img src="https://skillicons.dev/icons?i=git,vim,eclipse,idea&theme=dark" alt="IDEs & Text Editors"/>
   </a>
 </p>
+
 <hr/>
 <p align="center">
   <a href="#" target="_blank"><img src="https://komarev.com/ghpvc/?username=BrewenC&label=Profile%20Views" alt="Profile Views"/></a>
